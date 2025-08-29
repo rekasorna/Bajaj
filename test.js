@@ -2,7 +2,9 @@
 const axios = require('axios');
 
 // Base URL for the API
-const BASE_URL = 'http://localhost:3000';
+// const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://bajaj-se52.onrender.com';
+
 
 // Test cases from the document
 const testCases = [
